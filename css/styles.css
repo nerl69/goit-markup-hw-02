@@ -124,3 +124,12 @@ body {
 li {
   list-style-type: none;
 }
+
+.nav-link:focus,
+.nav-link.nav-link:active {
+  color: var(--primary-brand-color);
+}
+
+.list {
+  list-style: none;
+}
