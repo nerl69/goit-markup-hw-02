@@ -21,6 +21,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 
 .header-span {
@@ -31,6 +32,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
+  text-decoration: none;
 }
 
 .header-menu-link {
@@ -39,6 +41,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-decoration: none;
 }
 
 .header-address-link {
@@ -58,6 +61,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 
 .footer-span {
@@ -69,6 +73,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  text-decoration: none;
 }
 .footer-text {
   font-family: "Raleway";
@@ -91,7 +96,6 @@ body {
   letter-spacing: 0.04em;
   color: var(--color-white);
   background: var(--color-iris);
-  cursor: pointer;
 }
 
 .hero-title {
@@ -105,4 +109,7 @@ body {
 
 .hero-section {
   background: #2e2f42;
+}
+.button-active {
+  cursor: pointer;
 }
