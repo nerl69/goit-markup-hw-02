@@ -133,3 +133,7 @@ li {
 .list {
   list-style: none;
 }
+
+.header-address {
+  font-style: normal;
+}
