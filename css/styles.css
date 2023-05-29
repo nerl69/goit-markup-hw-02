@@ -113,3 +113,10 @@ body {
 .button-active {
   cursor: pointer;
 }
+.link {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
