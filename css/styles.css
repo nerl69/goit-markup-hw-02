@@ -217,3 +217,8 @@ li {
 .header-address-link:focus {
   color: #404bbf;
 }
+
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
