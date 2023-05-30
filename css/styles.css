@@ -237,3 +237,7 @@ li {
 .hero-btn:focus {
   background-color: #404bbf;
 }
+
+.titlelist {
+  background-color: #ffffff;
+}
