@@ -208,7 +208,7 @@ li {
   color: #434455;
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus {
+.header-menu:hover,
+.header-menu:focus {
   color: #404bbf;
 }
