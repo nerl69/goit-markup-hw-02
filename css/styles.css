@@ -97,8 +97,8 @@ body {
   letter-spacing: 0.04em;
   color: var(--color-iris);
   background: var(--color-cloud);
-  background-color: #4d5ae5;
-  color: #ffffff;
+  background-color: #f4f4fd;
+  color: #4d5ae5;
   cursor: pointer;
 }
 
