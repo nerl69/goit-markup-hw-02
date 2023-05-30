@@ -116,6 +116,12 @@ body {
   cursor: pointer;
 }
 
+.hero-btn-portfolio:hover,
+.hero-btn-portfolio:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
