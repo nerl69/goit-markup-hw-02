@@ -102,6 +102,20 @@ body {
   cursor: pointer;
 }
 
+.hero-btn-portfolio {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--color-iris);
+  background: var(--color-cloud);
+  background-color: #f4f4fd;
+  color: #4d5ae5;
+  cursor: pointer;
+}
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
