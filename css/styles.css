@@ -35,7 +35,7 @@ body {
   text-decoration: none;
 }
 
-.header-menu link {
+.header-menu {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
