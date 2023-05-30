@@ -212,3 +212,8 @@ li {
 .header-menu:focus {
   color: #404bbf;
 }
+
+.header-address-link:hover,
+.header-address-link:focus {
+  color: #404bbf;
+}
